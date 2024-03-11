@@ -28,3 +28,6 @@ In "The Defense of the Castle", players must protect the castle from invading gh
 
 ## Development
 This game was ported from Pascal to Python as part of a course project in "Video Games Programming and Special Effects". The porting process involved recreating the game mechanics, graphics, and controls using Pygame, a popular Python library for game development.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
